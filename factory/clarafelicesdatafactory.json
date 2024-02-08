@@ -1,0 +1,9 @@
+{
+	"name": "clarafelicesdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e8a7285e-4130-45d0-b525-ee9cf320e4b7",
+		"tenantId": "2641288d-9fac-4f50-b4b9-30b5df352570"
+	}
+}
