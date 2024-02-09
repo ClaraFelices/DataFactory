@@ -23,7 +23,7 @@
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
-						"activity": "Capabronce_Execute ",
+						"activity": "Capabronce_Execute",
 						"dependencyConditions": [
 							"Succeeded"
 						]
@@ -46,7 +46,7 @@
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
-						"activity": "Capaplata_Execute ",
+						"activity": "Capaplata_Execute",
 						"dependencyConditions": [
 							"Succeeded"
 						]
