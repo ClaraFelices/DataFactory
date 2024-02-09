@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "clarafelicesdatafactory"
+		},
+		"AzureDatabricks_DataFactory_accessToken": {
+			"value": ""
+		},
+		"AzureDatabricks_DataFactory1_accessToken": {
+			"value": ""
+		},
+		"Link_DataFactory_ADLS_accountKey": {
+			"value": ""
+		},
+		"AzureDatabricks_DataFactory_properties_typeProperties_existingClusterId": {
+			"value": "0208-164406-o4ro485g"
+		},
+		"AzureDatabricks_DataFactory1_properties_typeProperties_existingClusterId": {
+			"value": "0208-164406-o4ro485g"
+		},
+		"Link_DataFactory_ADLS_properties_typeProperties_url": {
+			"value": "https://felicestineoclarastorage.dfs.core.windows.net/"
+		}
+	}
+}
