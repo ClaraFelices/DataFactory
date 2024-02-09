@@ -9,16 +9,7 @@
 				"policy": {
 					"secureInput": false
 				},
-				"userProperties": [
-					{
-						"name": "Capabroncepipeline",
-						"value": "@pl_copyfiles_capabronce().pipeline"
-					},
-					{
-						"name": "Tiempo",
-						"value": "4"
-					}
-				],
+				"userProperties": [],
 				"typeProperties": {
 					"pipeline": {
 						"referenceName": "pl_copyfiles_capabronce",
@@ -41,16 +32,7 @@
 				"policy": {
 					"secureInput": false
 				},
-				"userProperties": [
-					{
-						"name": "Capaplata_pipeline",
-						"value": "@pl_copyfiles_capaplata().pipeline"
-					},
-					{
-						"name": "Tiempo",
-						"value": "15"
-					}
-				],
+				"userProperties": [],
 				"typeProperties": {
 					"pipeline": {
 						"referenceName": "pl_capaplata",
@@ -73,16 +55,7 @@
 				"policy": {
 					"secureInput": false
 				},
-				"userProperties": [
-					{
-						"name": "Capaoro_pipeline",
-						"value": "@pl_copyfiles_capaoro().pipeline"
-					},
-					{
-						"name": "Tiempo",
-						"value": "15"
-					}
-				],
+				"userProperties": [],
 				"typeProperties": {
 					"pipeline": {
 						"referenceName": "pl_capaoro",
